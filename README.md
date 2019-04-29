@@ -9,6 +9,6 @@
 <img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/00.jpg"/>
 
 2. 产品细化分类规划
-<img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/01.jpg"/>
-<img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/02.jpg"/>
-<img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/03.jpg"/>
+<img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/01.png"/>
+<img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/02.png"/>
+<img src = "https://github.com/sanhangshi/shshi-prototype/raw/master/image/03.png"/>
